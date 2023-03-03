@@ -134,7 +134,7 @@ function App() {
                             title: 'More',
                         },
                     ],
-                    title: '基于ChatGPT的AI助手',
+                    title: '憨憨的ChatGPT',
                 }}
                 messages={messages}
                 renderMessageContent={renderMessageContent}
